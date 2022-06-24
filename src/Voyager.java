@@ -8,6 +8,7 @@ public class Voyager {
 		
 		double hour = distance / voyager_speed;
 		System.out.println("보이저 1호로 프록시마 센타우리에 가려면 " + hour + "시간이 걸린다.");
+		
 	}
 
 }
