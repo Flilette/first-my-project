@@ -12,6 +12,7 @@ public class CalTime {
 		
 		double light_year = secs / (60*60*24*365); 
 		System.out.println("걸리는 시간은 " + light_year + "광년입니다.");
+	
 	}
 
 }
